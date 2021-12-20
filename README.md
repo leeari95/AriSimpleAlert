@@ -1,6 +1,7 @@
 # AriSimpleAlert
 
 [![CI Status](https://img.shields.io/travis/leeari95/AriSimpleAlert.svg?style=flat)](https://travis-ci.org/leeari95/AriSimpleAlert)
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Version](https://img.shields.io/cocoapods/v/AriSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/AriSimpleAlert)
 [![License](https://img.shields.io/cocoapods/l/AriSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/AriSimpleAlert)
 [![Platform](https://img.shields.io/cocoapods/p/AriSimpleAlert.svg?style=flat)](https://cocoapods.org/pods/AriSimpleAlert)
